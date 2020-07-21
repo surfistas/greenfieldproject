@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Project from "./project/project.jsx";
+import Project from "./project/proj.jsx";
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
