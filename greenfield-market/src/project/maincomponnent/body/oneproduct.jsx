@@ -6,7 +6,7 @@ export default class Oneproduct extends Component {
         return (
             <div>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src="https://images.pexels.com/photos/4879363/pexels-photo-4879363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" ></Card.Img>
+                    <Card.Img variant="top" src="https://images.pexels.com/photos/4879363/pexels-photo-4879363.jpeg" ></Card.Img>
                     <Card.Body>
                         <Card.Title>Card Title</Card.Title>
                         <Card.Text>
